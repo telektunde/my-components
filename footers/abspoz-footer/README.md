@@ -1,1 +1,1 @@
-ez egy egyszerû footer
+Absolute pozition footer
